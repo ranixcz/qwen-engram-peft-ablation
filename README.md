@@ -344,9 +344,6 @@ apparent contribution. The audit-corrected **+0.22 is the true baseline**.
 ## Files
 
 - `main.py`, `model.py`, `dataset.py`, `trainer.py`, `mano.py`, `ablate_engram.py` — see File Structure above
-- `REPRODUCE.md` — shorter version of the reproduction steps
-- `FINDINGS.md` — extended analysis, epoch-by-epoch trajectory, elimination table
-
 ---
 
 ## Citation
@@ -359,7 +356,6 @@ If you use this configuration or finding:
   author = {[Kamil Kahoun]},
   year   = {2026},
   note   = {Reproducible training window analysis for DeepSeek-style Engram on consumer hardware},
-  url    = {[your repo URL]}
 }
 ```
 
